@@ -1,17 +1,5 @@
 # December 2nd 2024 - This Week At LaunchCode
 
-### Current Open Apprenticeship Job Listings (as of 1:30pm CST 12/2/24)
-- RPA Analyst @ Silverthorne Advisory Group - https://www.launchcode.org/job_board/pQ8IklVeMg
-- Financial Operations Analyst @ Silverthorne Advisory Group - https://www.launchcode.org/job_board/s6VD8jaGon
-- Operations Research Analyst @ Silverthorne Advisory Group -  https://www.launchcode.org/job_board/rvoeClYtEC
-- Data Engineer @ Centene - https://www.launchcode.org/job_board/iz2xDfaj7G
-- Business Analyst and Development @ Mastercard Saint Louis - https://www.launchcode.org/job_board/zYj2cwP3Zb
-- Site Reliabilty Engineer @ Mastercard Saint Louis - https://www.launchcode.org/job_board/gbqqHJdmfr
-- .Net Software Developer @ DCSC Corporation - https://www.launchcode.org/job_board/uhfG2YK1rn
-- Systems Analyst @ Stifel - https://www.launchcode.org/job_board/pQRXklVeMg
-- Associate Consultant @ Appian - https://www.launchcode.org/job_board/n0drqfPa3C
-- Machine Learning Technician - Internship @ Presage - https://www.launchcode.org/job_board/s6XO8jaGon
-
 ### Volunteer Opportunities
 
 There are currently no volunteer opportunities for this next month.
